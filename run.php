@@ -55,7 +55,7 @@ else
 			echo "<h4>$k</h4>";
 			foreach ($v as $a => $b) 
 			{
-				echo "<a href='http://localhost/qhkarimeh/run.php?file=$b[addr]'>$b[name]</a><br>";
+				echo "<a target='_blank' href='http://localhost/qhkarimeh/run.php?file=$b[addr]'>$b[name]</a><br>";
 			}
 			
 		}

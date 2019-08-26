@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fa" dir="rtl" prefix="og: http://ogp.me/ns#">
 <head>
@@ -36,14 +37,14 @@
  <link rel="stylesheet"       href="https://qhkarimeh.ir/enterprise/qhkarimeh/css/qhkarimeh.css?"/>
 </head>
 
-<body data-in='site' data-page='quran-va-velayat' class='rtl preload ' data-user='5'>
+<body data-in='site' data-page='quran-va-velayat' class='rtl preload '>
 <section id='landing' data-scroll>
   <div class="bg"></div>
   <div id="nodes"></div>
   <header>
     <h2 class="s0">آستان مقدس حضرت فاطمه معصومه سلام الله علیها</h2>
     <h1><a href="https://qhkarimeh.ir">مرکز قرآن و حدیث کریمه اهل‌ بیت علیها السلام</a></h1>
-    <a href="https://qhkarimeh.ir/a" data-direct class="btn lg success mA5">ورود به سامانه آموزشی</a>
+    <a href="https://qhkarimeh.ir/enter" data-direct class="btn lg light mA5">ثبت‌نام در سامانه آموزشی</a>
     <a href="https://qhkarimeh.ir/support" data-direct class="btn lg primary mA5"><span class="sf-question-circle"></span> مرکز راهنمایی</a>
     <div class="mT10">
       </div>
@@ -54,8 +55,7 @@
 
 <div class="blogEx box">
   <article>
-  <?php echo $file; ?>
-  
+    <?php   echo $file; ?>
 </article>
 
 </div>
@@ -63,44 +63,6 @@
    </div>
   </div>
  </div>
-<section class='touchBox' id='contactus'>
-  <h3>با ما در تماس باشید</h3>
-  <address>
-    <p class="fs06 mB50-f fc-mute">قم، آستان مقدس حضرت فاطمه معصومه سلام الله علیها، مرکز قرآن و حدیث کریمه اهل‌ بیت علیها السلام</p>
-    <div class="f mB50">
-      <div class="c6 s12">
-        <div class="label">آموزش قرآن برادران</div>
-        <div class="value ltr"><a href="tel:+982537175527">۰۲۵ ۳۷۱۷ ۵۵۲۷</a></div>
-      </div>
-      <div class="c6 s12">
-        <div class="label">آموزش غیرحضوری</div>
-        <div class="value ltr"><a href="tel:+982537175530">۰۲۵ ۳۷۱۷ ۵۵۳۰</a></div>
-      </div>
-    </div>
-    <div class="f mB50">
-      <div class="c6 s12">
-        <div class="label">آموزش معارف برادران</div>
-        <div class="value ltr"><a href="tel:+982537175520">۰۲۵ ۳۷۱۷ ۵۵۲۰</a></div>
-      </div>
-      <div class="c6 s12">
-        <div class="label">آموزش قرآن خواهران</div>
-        <div class="value ltr"><a href="tel:+982537175505">۰۲۵ ۳۷۱۷ ۵۵۰۵</a></div>
-      </div>
-    </div>
-    <div class="f">
-      <div class="c6 s12">
-        <div class="label">شعبه شهدا (صفائیه)</div>
-        <div class="value ltr"><a href="tel:+982537744808">۰۲۵ ۳۷۷۴ ۴۸۰۸</a></div>
-      </div>
-      <div class="c6 s12">
-        <div class="label">آموزش معارف خواهران</div>
-        <div class="value ltr"><a href="tel:+982537175515">۰۲۵ ۳۷۱۷ ۵۵۱۵</a></div>
-      </div>
-    </div>
-  </address>
-</section>
-
-
 <footer>
   <div class="cn">
     <h2><a href="https://qhkarimeh.ir">مرکز قرآن و حدیث کریمه اهل‌ بیت علیها السلام</a></h2>
@@ -112,12 +74,17 @@
 </nav>
    <nav class="top">
     <a class="link_home" href="https://qhkarimeh.ir">صفحه نخست</a>
-    <a href="https://qhkarimeh.ir/about">درباره</a>
-    <a href="https://qhkarimeh.ir/contact">تماس</a>
-    <a href="https://qhkarimeh.ir/pricing">هزینه‌ها</a>
-    <a href="https://qhkarimeh.ir/support/faq" data-direct>سوالات پرتکرار</a>
-    <a href="https://qhkarimeh.ir/elearn" data-direct>آموزش غیرحضوری و مجازی</a>
-   </nav>
+          <a href="https://qhkarimeh.ir/about">درباره</a>
+      <a href="https://qhkarimeh.ir/contact">تماس</a>
+      <a href="https://qhkarimeh.ir/support/faq" data-direct>سوالات پرتکرار</a>
+      <a href="https://qhkarimeh.ir/pricing">هزینه‌ها</a>
+      <a href="https://qhkarimeh.ir/elearn" data-direct>آموزش غیرحضوری و مجازی</a>
+      <a href="https://qhkarimeh.ir/asatid" data-direct>معرفی اساتید</a>
+      <a href="https://qhkarimeh.ir/introduction/speech" data-direct>نقل قول بزرگان</a>
+      <a href="https://qhkarimeh.ir/report" data-direct>گزارش فعالیت‌ها</a>
+      <a href="https://qhkarimeh.ir/introduction/topics" data-direct>معرفی اجمالی دوره‌ها</a>
+      <a href="https://qhkarimeh.ir/regulations-instructions" data-direct>آیین نامه‌ها</a>
+       </nav>
 
    <div class="f middle">
       <a class="c s6" href="https://qhkarimeh.ir/terms">شرایط استفاده</a>
@@ -130,15 +97,7 @@
   </div>
 </footer>
 
-  <div id="xaccess">
-    <a class='siteAdmin public' data-direct href='https://qhkarimeh.ir/cms' title='کنترل پنل' data-tippy-placement='right' data-tippy-animation="shift-away" data-tippy-inertia="true"><span class="sf-gauge"></span></a>
-  </div>
  <script src="https://qhkarimeh.ir/static/siftal/js/siftal.min.js?1566130497"></script>
-<noscript>
- <div class="line top danger fs16">
-  <div class="txtB">جاوا اسکریپت برای استفاده از سرویس ما ضروری است.</div>
-  جاوا اسکریپت را در مرورگر خود فعال کنید یا از مرورگری استفاده کنید که  آن پشتیبانی می‌کند. </div>
-</noscript>
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130958695-3"></script>
